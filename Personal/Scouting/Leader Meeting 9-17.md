@@ -25,10 +25,21 @@ tags:
 		- Mr. Toth in charge.
 		- Pot luck dessert
 		- Streaming for Florida Scouts & sending PDF to them.
-	- Cancelled Henry Ford Campout or ILST
+	- Cancelled Henry Ford Campout & ILST
 
 ## Cellphone Ban
 - Email looks good.
+
+> [!NOTE]+ Email
+Subject: Cell Phone Policy for Upcoming Campouts
+Dear Troop Parents,
+> 
+I hope this email finds you well. As we prepare for our upcoming campouts, we want to ensure that our Scouts are getting the most out of their time outdoors. To help limit distractions and encourage more engagement in the activities and experiences we’ve planned, we’ve decided to implement a new cell phone policy.
+   > 
+We kindly ask that Scouts don’t use their cell phones during the day. If this becomes a problem we will escalate to you as parents to work with your Scout. This will help them stay focused on the tasks at hand, bond with their fellow Scouts, and fully immerse themselves in the outdoor experience. However, we understand the importance of staying connected, so we will allow cell phone use during the evenings when the day's activities are complete.
+>
+If you have any questions or concerns regarding this policy, please feel free to reach out. Thank you for your understanding and support as we work to create the best possible experience for our Scouts.
+
 - Christie Court's troop has a locked chest for cellphones.
 - Troop Conservation
 
