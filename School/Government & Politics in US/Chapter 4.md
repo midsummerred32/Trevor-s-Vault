@@ -31,3 +31,32 @@
 	- Supreme Court upheld this.
 - **clear-and-present-danger test** - the government has to demonstrate that spoken or written expression presents a clear and present danger before it can prohibit the expression.
 - No one has been convicted in 60 years for criticizing national security.
+- **symbolic speech** - action instead of words. Protected by First Amendment.
+- In order to lawfully stop an event, there has to be a danger and no way to stop it from happening.
+- Public officials can regulate time and place, as long as it's reasonable.
+- **prior restraint** - government prohibition of speech or publication before it occurs.
+
+## Freedom of Religion
+- **establishment clause** - government may not favor one religion over another or support religion over no religion. 
+- **wall-of-separation doctrine** - separation of church and state
+- **accommodation doctrine** - allows the government to aid religious activity if no preference is shown toward a particular religion and if the assistance is of a nonreligious nature. 
+- **Lemon Test** - 1. Policy has no religious purpose, 2. primary effect must be one that neither advances nor inhibits religion, 3. the policy must not foster “an excessive government entanglement with religion.
+- **free-exercise clause** - Americans are free to hold religious beliefs of their choosing.
+
+## The Right to Bear Arms
+-  The Supreme Court has ruled that gun ownership is protected by the Second Amendment but has not said how far that protection extends.
+
+## The Right of Privacy
+- Established in Griswold v. Connecticut
+- In Dobbs v. Jackson Women's Health Organization, the Supreme Court took away the constitutional right to an abortion, the first time a right has been taken away.
+
+## Rights of Person Accused of Crimes
+- **Due process** - legal safeguards that have been established to protect the rights of individuals.
+- Americans are protected against unreasonable:
+	- Search & Seizure
+	- Arrest
+	- Self Incrimination
+	- Double Jeopardy
+	- Due Process
+- "it is better to let one hundred guilty parties go free than to convict one innocent person."
+- Criminal defendants also have the right to a speedy trial and to confront witnesses against them.
