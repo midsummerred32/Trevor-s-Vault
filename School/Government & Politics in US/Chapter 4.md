@@ -52,11 +52,31 @@
 
 ## Rights of Person Accused of Crimes
 - **Due process** - legal safeguards that have been established to protect the rights of individuals.
-- Americans are protected against unreasonable:
-	- Search & Seizure
-	- Arrest
+- Americans are protected against:
+	- Unreasonable Search & Seizure
+	- Unreasonable Arrest
 	- Self Incrimination
 	- Double Jeopardy
 	- Due Process
 - "it is better to let one hundred guilty parties go free than to convict one innocent person."
 - Criminal defendants also have the right to a speedy trial and to confront witnesses against them.
+- **exclusionary rule** - bars the use of such evidence in some circumstances. 
+	- In order for police to not violate people's rights.
+	- Exceptions:
+		- good faith exception
+		- inevitable discovery exception
+		- plain view exception
+- Tests to conclude if a conviction is cruel and unusual:
+	- disproportionate to the offense
+	- fundamental standards of good conscience and fairness
+	- unnecessarily cruel
+- The Constitution does not guarantee an appeal after conviction, but the federal government and all states permit at least one appeal. 
+- "Tough on crime candidates" disallowed judges to give more lenient sentences to first time offenders and doubled the incarnation rate.
+
+## Rights and the War on Terrorism
+- The Supreme Court has ruled in favor of the government during war, that wouldn't be permitted in peace time.
+- Prisoners of war have rights under the United States Uniform Code of Military Justice and Geneva Conventions
+- NSA can't look at your phone records without a warrant.
+
+## The Courts and a Free Society
+- Bill of Rights was created to protect the abstract idea that individuals have a right to life, liberty, and happiness.
